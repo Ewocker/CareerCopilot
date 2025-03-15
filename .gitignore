@@ -175,4 +175,3 @@ cython_debug/
 
 .vscode/
 vector_db/
-knowledge-base/
